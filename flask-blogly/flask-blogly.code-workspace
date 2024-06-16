@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../flask-blogly-solution/part-one/templates"
+		},
+		{
+			"path": "../flask-blogly-solution/part-one/static"
+		}
+	],
+	"settings": {}
+}
